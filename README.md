@@ -1,6 +1,6 @@
-<h1><div style="text-align: center;">Reach me on</div></h1>
+<h1><center>Reach me on</center></h1>
 
-<div style="text-align: center;">
+<center>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -9,15 +9,15 @@
 ![LLVM](https://img.shields.io/badge/LLVM%20-56347C?&style=for-the-badge&logo=llvm&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-</div>
+</center>
 
-<div style="text-align: center;">
+<center>
 
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=purple)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=green)
-</div>
+</center>
 
 <div style="text-align: center;">
 
