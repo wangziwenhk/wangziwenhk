@@ -1,4 +1,4 @@
-# <div style="text-align: center;">Reach me on</div>
+<h1><div style="text-align: center;">Reach me on</div></h1>
 
 <div style="text-align: center;">
 
